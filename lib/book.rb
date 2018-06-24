@@ -12,12 +12,12 @@ class Book
     @title
   end
   
-   def title=(title)
-    @title = title
+   def author=(author)
+    @author = author
   end
   
-  def title
-    @title
+  def author
+    @author
   end
   
 end
